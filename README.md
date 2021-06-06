@@ -10,7 +10,7 @@
 
 ---------------------------------------------------
 <div id="About Project"><h3>About Project</h3></div>
-It's dashboard shows Brazillian E-commerce orders, price and sales summary.
+It's dashboard shows Brazillian E-Commerce orders, price and sales summary.
 
 ---------------------------------------------------
 <div id="About Contributor"><h3>About Contributor</h3></div>
