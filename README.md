@@ -1,4 +1,4 @@
-# Brazilian Ecommerce dashboard 
+# Brazilian E-Commerce dashboard 
 
 ---------------------------------------------------
 ### Table of Contents
